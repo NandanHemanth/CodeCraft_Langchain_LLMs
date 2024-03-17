@@ -1,6 +1,6 @@
 # CodeCraft: Unleashing Langchain & LLMs 🤖
 ### Please "STAR" this github repo before proceeding ⭐🙏
-### Whether you are a newbie or a seasoned programmer, this comprehensive 24 hour course is designed to teach you Langchain & LLms right from scratch! Master Fundamentals and build your own wizard assistant with theory and hands-on.
+### Whether you are a newbie or a seasoned programmer, this comprehensive 24-hour course divided into 4 weeks is designed to teach you Langchain & LLms right from scratch! Master Fundamentals and build your own wizard assistant with theory and hands-on.
 *Prerequisite - Python*
 
 ---
