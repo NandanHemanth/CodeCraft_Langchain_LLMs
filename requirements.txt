@@ -1,0 +1,11 @@
+notebook
+langchain
+lanhchain-community
+streamlit
+pandas
+numpy
+openai
+transformers
+huggingface
+dotenv
+typing
