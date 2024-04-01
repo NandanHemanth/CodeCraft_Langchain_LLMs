@@ -29,7 +29,7 @@ output_parser=StrOutputParser()
 
 # Setting up chain adn invoking this chain
 chain=prompt|model|output_parser
-question="Con you summarize the speech?"
+question="Can you summarize the speech?"
 context=""" Even though you are only a very small speck of ocean, of the 300 million children on whose shoulders the future of India rests, you can ignite the minds, light the fire, become a burning candle to light another candle. My dear children, you work in the school for about 25000 hours before you complete 12th std. Within the school curriculum / school hours, I want you to contribute to the Mission of Developed India by involving in the student centric activities like Literacy Development, Eco-Care Movement.
 
 India after its independence was determined to move ahead with planned policies for Science & Technology. Now, India is very near to self-sufficiency in food, making the ship to mouth existence of 1950s, an event of the past. Also improvements in the health sector, have eliminated few contagious diseases. There is a increase in life expectancy. Small scale industries provide high percentage of National GDP - a vast change in 1990s compared to 1950s. Today India can design, develop and launch world class geo-stationary and sun synchronous, remote sensing satellites.
